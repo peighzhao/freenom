@@ -10,7 +10,6 @@ Documentation: English version | [中文版](https://github.com/luolongfei/freen
 
 [📃  Why write this script](#--Why-write-this-script)
 
-[🍭  Demo](#--Demo)
 
 [🎁  Preparation](#--Preparation)
 
